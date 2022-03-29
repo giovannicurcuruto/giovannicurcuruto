@@ -11,5 +11,6 @@
 
 Contact me and let's get some coffee ☕ and talk! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Giovanni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-curcuruto-b6689596/)](https://www.linkedin.com/in/giovanni-curcuruto-b6689596/)
-[![Gmail Badge](https://img.shields.io/badge/-ggcurcuruto@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggcurcuruto@gmail.com)](mailto:ggcurcuruto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-curcuruto-b6689596/)](https://www.linkedin.com/in/giovanni-curcuruto-b6689596/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Mail-me-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggcurcuruto@gmail.com)](mailto:ggcurcuruto@gmail.com)
