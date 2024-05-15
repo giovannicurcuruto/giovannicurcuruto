@@ -2,9 +2,9 @@
 
 ## .About-me
 
-- I'm  a enthusiast in technological and i have been fascinated by devolopment web and mobile.
+- I'm  a enthusiast in technological and i have been fascinated by devolopment web (Frontend e Backend) and mobile.
 - I'm graduate in Telecomunication on Systems and now I'm started one post graduate in Project with a Focus on Mobile Applications.
-- In all of my life, I been testing some programming stacks: C, C#, Python, Java, Javascript, PHP, Typecript, Dart with Flutter, Assembly, VHDL, CSS...
+- In all of my life, I been testing some programming stacks: C, C#, Python, Java, Spring, Javascript, PHP, Typecript, Dart with Flutter, Assembly, VHDL, CSS...
 - I tested some frameworks too: React JS, Angular JS, SASS, Bootstrap, .NET...
 
 ## .Contacts
